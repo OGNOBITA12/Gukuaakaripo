@@ -25,7 +25,7 @@ ADS_MODE = getenv("ADS_MODE", None)
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6027918860))
+OWNER_ID = int(getenv("OWNER_ID", 7703018672))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MOON-CODES/leharmusic",
+    "https://github.com/GOKUxEDITION/NEWxSERVER",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -81,7 +81,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/h9XdzGp/IMG-20250103-174105-243.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/6xf14a.png"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://i.ibb.co/k3cw8XS/IMG-20250103-174108-968.jpg"
