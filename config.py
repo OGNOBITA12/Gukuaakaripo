@@ -81,21 +81,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/6c9f7ab040a4923a8919f-6924d83db78719dc0a.jpg"
+    "START_IMG_URL", "https://carder.top/imagens/1740630435559-655543370.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/6c9f7ab040a4923a8919f-6924d83db78719dc0a.jpg"
+    "PING_IMG_URL", "https://carder.top/imagens/1740630435559-655543370.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-STATS_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-STREAM_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/e86d5375b7f181f0d3fab-f97c2daecfdf878d56.jpg"
+PLAYLIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+STATS_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+TELEGRAM_AUDIO_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+TELEGRAM_VIDEO_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+STREAM_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SOUNCLOUD_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+YOUTUBE_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
 
 
 def time_to_seconds(time):
